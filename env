@@ -1,0 +1,6 @@
+# .env
+
+BOT_TOKEN=7644996926:AAFAqmY7nz8riytHLKfkUGKjp5t6RO96wGo
+API_URL_TEMPLATE=https://godtufan-like.vercel.app//like?uid={uid}&server_name={region}&key=BHUPALI×GAGAN
+WEBHOOK_URL=https://fearless-kanhaapi.onrender.com
+PORT=5000
